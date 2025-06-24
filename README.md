@@ -1,6 +1,8 @@
 <img width="100%" height="180" src="https://i.pinimg.com/736x/54/a3/c2/54a3c2712840cc53cbbdf6d872563a0f.jpg"/>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200%"> 
-# 💫 About Me:
+
+
+ 💫 About Me:
 I'm Toukir Tuhin, a passionate and forward-thinking MERN Stack Developer who thrives on building fast, scalable, and user-focused web applications.<br><br>With hands-on expertise in MongoDB, Express.js, React, and Node.js, I bring ideas to life — from intuitive front-end interfaces to powerful back-end APIs. I’m deeply focused on writing clean, maintainable code and delivering real-world solutions that make a difference.<br><br>I don’t just build projects — I build products with purpose. I'm highly comfortable using AI tools to enhance my development workflow, boost efficiency, and solve problems faster. This mindset allows me to move quicker, write smarter code, and focus more on building what actually matters.<br><br>I’m not here to follow trends — I’m here to set standards. I'm ready to bring my energy, skill, and mindset to a team that values innovation, ownership, and growth.<br><br>If you're looking for a developer who’s proactive, reliable, and ready to deliver__ I’m that developer.
 
 
